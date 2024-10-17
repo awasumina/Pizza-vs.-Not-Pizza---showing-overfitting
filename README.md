@@ -85,3 +85,4 @@ train=ImageDataGenerator(
 ## Conclusion
 This project demonstrates a basic CNN model that shows signs of **overfitting** due to a higher performance on the training data compared to the test data. To achieve better generalization, adding more data variation through augmentation, dropout, or other regularization techniques can be effective in preventing the model from memorizing the training data.
 
+ 
